@@ -33,7 +33,11 @@ var knowme =[
   {que:"Sagar mostly vists macd/kfc? ",
   ans:"kfc"},
   {que:"Sagar likes Mountains/beaches? ",
-  ans: "mountains"}
+  ans: "mountains"},
+  {que:"Do you know sagar age(20/21)?",
+  ans:"21"},
+  {que:"Sagar likes Cricket/Football? ",
+  ans:"cricket"},
   ];
 
 for(var i=0;i<knowme.length;i++){
